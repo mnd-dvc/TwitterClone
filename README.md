@@ -4,7 +4,7 @@
 
 **Kodluyoruz Bitirme Projesi**
 
-![banner resmi](https://github.com/mnd-dvc/twitterClone/blob/main/twitterClone.png)
+![banner resmi](https://github.com/mnd-dvc/twitterr-Clonee/blob/master/twitterClone.png)
 
 
 
