@@ -1,3 +1,28 @@
+# twitterClone
+
+## React JS ile Twitter Clone Yapımı 
+
+**Kodluyoruz Bitirme Projesi**
+
+![banner resmi](https://github.com/mnd-dvc/twitterClone/blob/main/twitterClone.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
